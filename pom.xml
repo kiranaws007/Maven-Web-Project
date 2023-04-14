@@ -7,6 +7,10 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>maven-web-project Maven Webapp</name>
 	<url>http://maven.apache.org</url>
+	
+<maven.compiler.source>1.8</maven.compiler.source>
+  <maven.compiler.target>1.8</maven.compiler.target>
+
 
 	<properties>
 		<!-- Spring test requires 1.7 onwards. don't down grade version -->
